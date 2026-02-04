@@ -1,5 +1,6 @@
 # Spring Boot Hello API
 
+<<<<<<< HEAD
 A simple Spring Boot REST API built to demonstrate backend fundamentals using Java and Spring Boot.
 
 This project was created as a learning and portfolio project to practice building RESTful APIs, configuring Spring Boot, and using Git/GitHub for version control.
@@ -36,3 +37,12 @@ Returns a simple JSON message.
 {
   "message": "Spring Boot is working!"
 }
+=======
+A simple Spring Boot REST API built using Java and Spring Boot.
+
+## 👤 Author
+Ivan Reynoso  
+Bachelor’s Degree in Computer Science  
+Aspiring Backend Developer
+
+>>>>>>> ab601bf (Add README)
